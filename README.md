@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Code_Smag** · Team ID `VTU-QFF-HC-0155` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Code_Smag)
+[⬆ Back to Top](#code_smag)
 
 </div>
